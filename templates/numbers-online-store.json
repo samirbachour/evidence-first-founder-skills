@@ -1,0 +1,26 @@
+{
+  "business": "FILL WITH VERIFIED BUSINESS NAME",
+  "unit": "order",
+  "currency": "USD",
+  "price": null,
+  "variable": [
+    {"label": "Verified production and fulfillment charge per order", "cost": null},
+    {"label": "Verified retailer-funded shipping cost per order", "cost": null},
+    {"label": "Verified fixed payment charge per order", "cost": null},
+    {"label": "Other verified or explicitly estimated per-order expense", "cost": null}
+  ],
+  "variable_percent": [
+    {"label": "Verified payment fee as a FRACTION of gross order price", "rate": null}
+  ],
+  "refund_rate": null,
+  "refund_handling_per_order": null,
+  "fixed_monthly": [
+    {"label": "Verified recurring store/software expense", "cost": null},
+    {"label": "Verified monthly advertising budget, if treated as fixed", "cost": null}
+  ],
+  "startup": [
+    {"label": "Verified or explicitly authorized one-time expenditure", "cost": null}
+  ],
+  "plan_per_month": null,
+  "ramp_per_month": [null, null, null, null, null, null, null, null, null, null, null, null]
+}

@@ -1,0 +1,24 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "evidence-first-founder-skills",
+  "version": "2.0.0",
+  "description": "14 evidence-first business-analysis skills for validated research, ecommerce audits, finance scenarios, offers and planning. Adapted from Jake Schincariol's MIT-licensed founder-skill.",
+  "license": "MIT",
+  "keywords": [
+    "founder",
+    "ecommerce",
+    "unit-economics",
+    "business-validation",
+    "codex",
+    "chatgpt"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Evidence-First Founder Skills",
+        "shortDescription": "Research decisions and calculate scenarios from verified business inputs",
+        "longDescription": "Fourteen founder skills for buyer research, product economics, offers, marketing, and project prioritization. Fictional customer panels are clearly segregated from evidence."
+      }
+    }
+  }
+}
